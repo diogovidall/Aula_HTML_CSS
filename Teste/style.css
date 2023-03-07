@@ -1,0 +1,23 @@
+.corpo {
+    color: rgb(235, 150, 235);
+}
+.card {
+    height: 100px;
+    background-color: rgb(33, 97, 153);
+    border-radius: 25px;
+    border: solid 5px #7d14a7;
+}
+
+.estiloH1 {
+    font-family: monospace, sans-serif;
+    font-size: 15px;
+    text-align:justify;
+    width:  auto;
+
+}
+.gitNome {
+    color: #ace266;
+}
+body {
+    background-color: rgb(209, 17, 184);
+}
